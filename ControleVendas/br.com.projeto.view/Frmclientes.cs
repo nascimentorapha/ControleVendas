@@ -16,5 +16,10 @@ namespace ControleVendas.br.com.projeto.view
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
