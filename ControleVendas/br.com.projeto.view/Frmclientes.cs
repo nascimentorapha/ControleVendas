@@ -56,5 +56,10 @@ namespace ControleVendas.br.com.projeto.view
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
